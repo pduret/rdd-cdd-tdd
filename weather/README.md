@@ -10,7 +10,7 @@
 
 Cli-Weather is a client useful to get weather from your terminal. You can easily get the weather online from your current location, or your favorite city ! The forecast is about 4 days :)
 
-![](Screen3.png)
+![](Screen2.png)
 
 ## Packages Installation
 
