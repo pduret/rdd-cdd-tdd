@@ -5,6 +5,7 @@
 
 - [Introduction](#introduction)
 - [Packages Installation](#packages-installation)
+- [Packages Description](#packages-description)
 
 ## Introduction
 
@@ -36,3 +37,10 @@ Cli-Weather is a client useful to get weather from your terminal. You can easily
 ❯ node index.js -a "Lyon,FR"
 ```
 ![](Screen3.png)
+
+## Packages Description
+
+1. `public-ip` is used to get your public Ip
+1. `chalk` is used to add color to your terminal
+1. `cli-table` is used to render unicode_aided tables
+1. `minimist` is used to add fanciful decoration
