@@ -25,9 +25,9 @@
 ❯ npm install cli-table
 ❯ npm install minimist
 ```
-![](Screen1.png)
 
 1. Test
 ```sh
 ❯ node index.js
 ```
+![](Screen1.png)
