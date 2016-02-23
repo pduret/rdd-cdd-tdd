@@ -15,9 +15,9 @@
 
 ## Packages Installation
 
-1. Open a console
-1. Go to the directory `/weather`
-1. Follow those command lines :
+- Open a console
+- Go to the directory `/weather`
+- Follow those command lines :
 
 ```sh
 ❯ npm install public-ip
@@ -26,7 +26,7 @@
 ❯ npm install minimist
 ```
 
-1. Test
+- Test
 ```sh
 ❯ node index.js
 ```
