@@ -15,9 +15,9 @@
 
 ## Packages Installation
 
-1. Open a console
-2. Go to the directory `/weather`
-3. Follow those command lines :
+1 Open a console
+2 Go to the directory `/weather`
+3 Follow those command lines :
 
 ```sh
 ❯ npm install public-ip
@@ -27,7 +27,7 @@
 ```
 ![](Screen1.png)
 
-4. Test
+4 Test
 ```sh
 ❯ node index.js
 ```
