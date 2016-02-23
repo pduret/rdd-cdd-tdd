@@ -1,17 +1,16 @@
+# Cli-Weather
 
 
-# Read Me
-
-> RDD, CDD and TDD workshop
-
-<!-- START doctoc generated TOC please keep comment here to allow auto update -->
-<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
 
+- [Introduction](#introduction)
 - [Packages Installation](#packages-installation)
 
-<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+## Introduction
 
+Cli-Weather is a client useful to get weather from your terminal. You can easily get the weather online from your current location, or your favorite city ! The forecast is about 4 days :)
+
+![](Screen3.png)
 
 ## Packages Installation
 
@@ -26,8 +25,14 @@
 ❯ npm install minimist
 ```
 
-- Test
+- Test for your current location
 ```sh
 ❯ node index.js
 ```
 ![](Screen1.png)
+
+- Or test from your favorite city
+```sh
+❯ node index.js -a "Lyon,FR"
+```
+![](Screen3.png)
