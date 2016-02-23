@@ -4,4 +4,4 @@ npm install chalk
 npm install cli-table
 npm install minimist
 
-![stack Overflow](Screen1.png)
+![](Screen1.png)
